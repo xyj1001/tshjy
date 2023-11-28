@@ -1,0 +1,16 @@
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\pojo\Result.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\exception\GlobalExceptionHandler.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\service\impl\MessageServiceImpl.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\mapper\UserMapper.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\service\impl\UserServiceImpl.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\mapper\MessageMapper.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\utils\JwtUtils.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\service\MessageService.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\tshjy.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\service\UserService.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\controller\LoginController.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\controller\RegisterController.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\pojo\User.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\filter\LoginCheckFilter.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\controller\MessageController.java
+D:\tlias-web-management\tshjy\src\main\java\com\xyj\pojo\Recorder.java
