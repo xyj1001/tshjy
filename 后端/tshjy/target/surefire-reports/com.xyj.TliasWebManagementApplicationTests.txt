@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.xyj.TliasWebManagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.674 s <<< FAILURE! - in com.xyj.TliasWebManagementApplicationTests
+testParseJwt  Time elapsed: 0.032 s  <<< ERROR!
+io.jsonwebtoken.ExpiredJwtException: JWT expired at 2023-11-08T18:35:27Z. Current time: 2023-11-28T17:43:15Z, a difference of 1724868982 milliseconds.  Allowed clock skew: 0 milliseconds.
+	at com.xyj.TliasWebManagementApplicationTests.testParseJwt(TliasWebManagementApplicationTests.java:51)
+
