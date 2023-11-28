@@ -1,0 +1,35 @@
+<view class="bg"></view>
+<view class="wrap">
+<view class="container">
+
+  <view class="search-bar">
+  <picker mode="date" bindchange="bindDateChange">
+    <view class="picker-item">
+      选择日期: {{selectedDate}}
+    </view>
+  </picker>
+
+  <picker mode="selector" range="{{numberList}}" bindchange="bindNumberChange">
+    <view class="picker-item">
+      选择编号: {{selectedNumber}}
+    </view>
+  </picker>
+  
+</view>
+<view class="s">
+  <view wx:for="{{data_list.data}}" wx:key="id">
+    <view class="data-item">
+    <view>空气温度: {{item.airTemper}}</view>
+    <view>空气湿度: {{item.airHum}}</view>
+    <view>空气质量: {{item.airQur}}</view>
+    <view>光照强度: {{item.lightInt}}</view>
+    <view>土壤湿度: {{item.soilMoi}}</view>
+    <view>土壤PH值: {{item.soilPh}}</view>
+    <view>记录时间: {{item.recordTime}}</view>
+  </view>
+
+</view>
+
+</view>
+</view>
+</view>
